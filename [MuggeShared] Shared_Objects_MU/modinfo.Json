@@ -1,33 +1,36 @@
 {
-  "Version": "1.2",
+  "Version": "1.32",
   "ModID": "Shared_Objects_MU",
-  "IncompatibleIds": null,
-  "ModDependencies": null,
+  "LoadAfterIds": [
+    "A_Modified_Ornaments_Tab"
+  ],
+  "IncompatibleIds": [],
+  "ModDependencies": [],
   "Category": {
-    "Chinese": null,
+    "Chinese": "Shared resources Mod",
     "English": "Shared resources Mod",
     "French": "Shared resources Mod",
     "German": "Shared resources Mod",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Shared resources Mod",
+    "Japanese": "Shared resources Mod",
+    "Korean": "Shared resources Mod",
     "Polish": "Shared resources Mod",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Shared resources Mod",
+    "Spanish": "Shared resources Mod",
+    "Taiwanese": "Shared resources Mod"
   },
     "ModName": {
-    "Chinese": null,
+    "Chinese": "Shared_Objects_MU",
     "English": "Shared_Objects_MU",
     "French": "Shared_Objects_MU",
     "German": "Shared_Objects_MU",
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
+    "Italian": "Shared_Objects_MU",
+    "Japanese": "Shared_Objects_MU",
+    "Korean": "Shared_Objects_MU",
     "Polish": "Shared_Objects_MU",
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Russian": "Shared_Objects_MU",
+    "Spanish": "Shared_Objects_MU",
+    "Taiwanese": "Shared_Objects_MU"
   },
   "Description": {
     "Chinese": null,
@@ -55,19 +58,6 @@
       "Russian": null,
       "Spanish": null,
       "Taiwanese": null
-    },
-    {
-      "Chinese": null,
-      "English": null,
-      "French": null,
-      "German": null,
-      "Italian": null,
-      "Japanese": null,
-      "Korean": null,
-      "Polish": null,
-      "Russian": null,
-      "Spanish": null,
-      "Taiwanese": null
     }
   ],
   "DLCDependencies": [
@@ -75,9 +65,8 @@
       "DLC": null,
       "Dependant": null
     }
-	
   ],
   "CreatorName": "muggenstuermer",
-  "CreatorContact": "https://discord.gg/2yNrjsk9R8",
+  "CreatorContact": "https://www.nexusmods.com/anno1800/users/74331668",
   "Image" : null
 }
